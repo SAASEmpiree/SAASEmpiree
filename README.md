@@ -1,38 +1,89 @@
 # Hi, I'm Pierre 👋
 
-📍 **France** | 🔒 **Local-first builder** | 🧰 **Indie maker of private, offline apps**
+📍 **France** | 🔒 **Local-first builder** | 🖥️ **Native apps for macOS (and some for Windows)**
 
-I build native desktop apps that do real work **entirely on your machine** — no upload, no account, no tracking, no cloud. Tauri + Rust + Svelte, with a dash of Swift.
+I make small, focused apps that do real work **on your machine**: no upload, no account, no tracking. Swift when it lives in the menu bar, Tauri + Rust + Svelte when it needs a real engine.
 
-![Rust](https://img.shields.io/badge/-Rust-DEA584?style=flat-square&logo=rust&logoColor=black)
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/-SwiftUI-0A84FF?style=flat-square&logo=swift&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-DEA584?style=flat-square&logo=rust&logoColor=black)
+![Tauri](https://img.shields.io/badge/-Tauri%202-FFC131?style=flat-square&logo=tauri&logoColor=black)
 ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tauri](https://img.shields.io/badge/-Tauri%202-FFC131?style=flat-square&logo=tauri&logoColor=black)
+![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
 ## Start Here
 
-- 🧰 **[Omnia](https://github.com/SAASEmpiree/omnia)** - a 100% local file toolbox: convert, compress, merge & clean files, fully offline.
-- 🗂️ **[Classeur](https://github.com/SAASEmpiree/classeur)** - keep your documents tidy and never lose them. Local-first, encrypted, no cloud.
-- 🧠 **[Sillon](https://github.com/SAASEmpiree/memora)** - spaced-repetition flashcards (FSRS), local-first.
+- 🧰 **[Omnia](https://github.com/SAASEmpiree/homebrew-tap#omnia)** - convert, compress, merge and clean any file, fully offline.
+- 💬 **[Flow](https://github.com/SAASEmpiree/homebrew-tap#flow)** - menu-bar translator, on-device by default.
+- 👥 **[Kairo](https://saasempiree.github.io/kairo-site/)** - your team's tasks, docs and chat, live, on macOS and Windows.
 
-## Current Projects
+## The Apps
 
-### Local-first apps
+Every app below installs from one place: **[SAASEmpiree/homebrew-tap](https://github.com/SAASEmpiree/homebrew-tap)**.
 
-- 🧰 **[Omnia](https://github.com/SAASEmpiree/omnia)** - images, PDF, audio/video & privacy tools, with its own Rust engine. Nothing leaves your device.
-- 🗂️ **[Classeur](https://github.com/SAASEmpiree/classeur)** - tidy, encrypted document filing. Local-first (Tauri + Rust).
-- 💶 **[Pécule](https://github.com/SAASEmpiree/pecule)** - private personal finance: wallet, subscriptions, simulators (Tauri + SvelteKit).
-- 🧠 **[Sillon](https://github.com/SAASEmpiree/memora)** - spaced-repetition flashcards (FSRS), local-first (Tauri 2 + Rust + SvelteKit).
-- ⇄ **[Units](https://github.com/SAASEmpiree/units)** - menu-bar unit converter (Swift / SwiftUI).
+### 🗂️ Files, paperwork & money
+
+| | App | What it does |
+|:-:|---|---|
+| <img src="assets/omnia.png" width="32" alt="" /> | **[Omnia](https://github.com/SAASEmpiree/homebrew-tap#omnia)** | Converts, compresses, merges and cleans images, PDFs, audio and video, 100% on device. macOS & Windows. |
+| <img src="assets/classeur.png" width="32" alt="" /> | **[Classeur](https://github.com/SAASEmpiree/homebrew-tap#classeur)** | Files, reads (OCR) and searches your paperwork, and reminds you before an ID or a contract expires. Encrypted, no cloud. |
+| <img src="assets/pecule.png" width="32" alt="" /> | **[Pécule](https://github.com/SAASEmpiree/homebrew-tap#pecule)** | Personal-finance simulators (compound interest, monthly savings, mortgage) on one interactive projection curve. No bank link. |
+
+### 🎓 Learning
+
+| | App | What it does |
+|:-:|---|---|
+| <img src="assets/memora.png" width="32" alt="" /> | **[Memora](https://github.com/SAASEmpiree/homebrew-tap#memora)** | A study hub organised by subject: Markdown notes, FSRS flashcards, quizzes, exam countdowns and a focus timer. |
+| <img src="assets/codelearn.png" width="32" alt="" /> | **[CodeLearn](https://github.com/SAASEmpiree/homebrew-tap#codelearn)** | A tech dictionary you actually memorise: 349 dev, cloud and AI terms with analogies, code and spaced review. |
+
+### 🧭 Mac utilities
+
+| | App | What it does |
+|:-:|---|---|
+| <img src="assets/flow.png" width="32" alt="" /> | **[Flow](https://github.com/SAASEmpiree/homebrew-tap#flow)** | Menu-bar translator for 115 languages: Apple on-device by default, DeepL or any OpenAI-compatible model if you want. |
+| <img src="assets/units.png" width="32" alt="" /> | **[Units](https://github.com/SAASEmpiree/homebrew-tap#units)** | Menu-bar unit converter: length, mass, temperature, speed, volume and data. Offline. |
+| <img src="assets/frameline.png" width="32" alt="" /> | **[FrameLine](https://github.com/SAASEmpiree/homebrew-tap#frameline)** | Screenshots and screen recordings: capture, annotate, pin, copy the text (OCR), trim the video. |
+| 🔲 | **[AppGrid](https://github.com/SAASEmpiree/homebrew-tap#appgrid)** | Keeps your Applications folder laid out as a 6-column grid, home-screen style: drop an app, the others shift. |
+
+### 🤖 AI & developer tools
+
+| | App | What it does |
+|:-:|---|---|
+| <img src="assets/comete.png" width="32" alt="" /> | **[Comète](https://github.com/SAASEmpiree/homebrew-tap#comete)** | A cockpit for AI coding agents: Claude Code, Codex and shells in a grid of real terminals, with browser, Git and local dictation. |
+| <img src="assets/jarvis.png" width="32" alt="" /> | **[Jarvis](https://github.com/SAASEmpiree/homebrew-tap#jarvis)** | A voice-first assistant for your Mac: push-to-talk, hands-free, or just say "Jarvis". |
+| <img src="assets/zap.png" width="32" alt="" /> | **[Zap](https://github.com/SAASEmpiree/homebrew-tap#zap)** | <kbd>⌥ Space</kbd>, two letters, <kbd>↩</kbd>: any project opens in a new editor window. |
+| <img src="assets/pleuria.png" width="32" alt="" /> | **[PleurIA](https://github.com/SAASEmpiree/homebrew-tap#pleuria)** | A little Earth in your menu bar that cries with every AI request and counts the litres of water it cost. |
+
+### 👥 Team
+
+| | App | What it does |
+|:-:|---|---|
+| <img src="assets/kairo.png" width="32" alt="" /> | **[Kairo](https://saasempiree.github.io/kairo-site/)** | Linear-style tasks and Notion-style docs, files and chat, shared live with your team. macOS & Windows. |
+
+## Install
+
+macOS, with [Homebrew](https://brew.sh):
+
+```sh
+brew tap saasempiree/tap
+brew install --cask saasempiree/tap/<app>     # e.g. omnia, flow, units
+```
+
+Windows, with [Scoop](https://scoop.sh):
+
+```powershell
+scoop bucket add saasempiree https://github.com/SAASEmpiree/homebrew-tap
+scoop install saasempiree/<app>
+```
 
 ## What I care about
 
-- 🔒 **Privacy by construction** - apps that *can't* phone home, not ones that promise not to.
-- ⚡ **Native & fast** - real engines (Rust, Swift), not web wrappers.
-- 🎨 **Polished details** - themes, accents, micro-interactions that make tools feel good.
+- 🔒 **Privacy by construction** - apps that *can't* phone home, not apps that promise not to.
+- ⚡ **Native & fast** - real engines (Swift, Rust), small binaries, instant launch.
+- 🎨 **Polished details** - keyboard-first, themes, haptics, the micro-interactions that make a tool feel good.
 
 ---
 
-<div align="center"><sub>Everything happens on your machine — that's the whole point.</sub></div>
+<div align="center"><sub>Everything happens on your machine. That's the whole point.</sub></div>

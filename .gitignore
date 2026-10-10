@@ -1,1 +1,13 @@
+# This folder is the profile repo (SAASEmpiree/SAASEmpiree), but it also holds
+# every app's own nested repo. Ignore everything, then allow only the profile.
+/*
+!/.gitignore
+!/README.md
+!/assets/
+!/appcasts/
+
+# Sparkle: never commit the EdDSA private key
+sparkle_private_key.txt
+*private_key*
+
 .DS_Store
