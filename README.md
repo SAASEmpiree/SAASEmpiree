@@ -37,6 +37,7 @@ Every app below installs from one place: **[SAASEmpiree/homebrew-tap](https://gi
 | <img src="assets/flow.png" width="32" alt="" /> | **[Flow](https://github.com/SAASEmpiree/homebrew-tap#flow)** | Menu-bar translator for 115 languages: Apple on-device by default, DeepL or any OpenAI-compatible model if you want. |
 | <img src="assets/units.png" width="32" alt="" /> | **[Units](https://github.com/SAASEmpiree/homebrew-tap#units)** | Menu-bar unit converter: length, mass, temperature, speed, volume and data. Offline. |
 | <img src="assets/frameline.png" width="32" alt="" /> | **[FrameLine](https://github.com/SAASEmpiree/homebrew-tap#frameline)** | Screenshots and screen recordings: capture, annotate, pin, copy the text (OCR), trim the video. |
+| <img src="assets/my-codexbar.png" width="32" alt="" /> | **[My CodexBar](https://github.com/SAASEmpiree/homebrew-tap#my-codexbar)** | Claude Code and Codex usage in the menu bar: session and weekly limits, reset times, local spend. My own copy of CodexBar. |
 | 🔲 | **[AppGrid](https://github.com/SAASEmpiree/homebrew-tap#appgrid)** | Keeps your Applications folder laid out as a 6-column grid, home-screen style: drop an app, the others shift. |
 
 ### 🤖 AI & developer tools
