@@ -23,20 +23,12 @@ I make small, focused apps that do real work **on your machine**: no upload, no 
 
 Every app below installs from one place: **[SAASEmpiree/homebrew-tap](https://github.com/SAASEmpiree/homebrew-tap)**.
 
-### 🗂️ Files, paperwork & money
+### 🗂️ Files & paperwork
 
 | | App | What it does |
 |:-:|---|---|
 | <img src="assets/omnia.png" width="32" alt="" /> | **[Omnia](https://github.com/SAASEmpiree/homebrew-tap#omnia)** | Converts, compresses, merges and cleans images, PDFs, audio and video, 100% on device. macOS & Windows. |
 | <img src="assets/classeur.png" width="32" alt="" /> | **[Classeur](https://github.com/SAASEmpiree/homebrew-tap#classeur)** | Files, reads (OCR) and searches your paperwork, and reminds you before an ID or a contract expires. Encrypted, no cloud. |
-| <img src="assets/pecule.png" width="32" alt="" /> | **[Pécule](https://github.com/SAASEmpiree/homebrew-tap#pecule)** | Personal-finance simulators (compound interest, monthly savings, mortgage) on one interactive projection curve. No bank link. |
-
-### 🎓 Learning
-
-| | App | What it does |
-|:-:|---|---|
-| <img src="assets/memora.png" width="32" alt="" /> | **[Memora](https://github.com/SAASEmpiree/homebrew-tap#memora)** | A study hub organised by subject: Markdown notes, FSRS flashcards, quizzes, exam countdowns and a focus timer. |
-| <img src="assets/codelearn.png" width="32" alt="" /> | **[CodeLearn](https://github.com/SAASEmpiree/homebrew-tap#codelearn)** | A tech dictionary you actually memorise: 349 dev, cloud and AI terms with analogies, code and spaced review. |
 
 ### 🧭 Mac utilities
 
@@ -52,7 +44,6 @@ Every app below installs from one place: **[SAASEmpiree/homebrew-tap](https://gi
 | | App | What it does |
 |:-:|---|---|
 | <img src="assets/comete.png" width="32" alt="" /> | **[Comète](https://github.com/SAASEmpiree/homebrew-tap#comete)** | A cockpit for AI coding agents: Claude Code, Codex and shells in a grid of real terminals, with browser, Git and local dictation. |
-| <img src="assets/jarvis.png" width="32" alt="" /> | **[Jarvis](https://github.com/SAASEmpiree/homebrew-tap#jarvis)** | A voice-first assistant for your Mac: push-to-talk, hands-free, or just say "Jarvis". |
 | <img src="assets/zap.png" width="32" alt="" /> | **[Zap](https://github.com/SAASEmpiree/homebrew-tap#zap)** | <kbd>⌥ Space</kbd>, two letters, <kbd>↩</kbd>: any project opens in a new editor window. |
 | <img src="assets/pleuria.png" width="32" alt="" /> | **[PleurIA](https://github.com/SAASEmpiree/homebrew-tap#pleuria)** | A little Earth in your menu bar that cries with every AI request and counts the litres of water it cost. |
 
