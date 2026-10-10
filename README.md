@@ -44,7 +44,6 @@ Every app below installs from one place: **[SAASEmpiree/homebrew-tap](https://gi
 | | App | What it does |
 |:-:|---|---|
 | <img src="assets/comete.png" width="32" alt="" /> | **[Comète](https://github.com/SAASEmpiree/homebrew-tap#comete)** | A cockpit for AI coding agents: Claude Code, Codex and shells in a grid of real terminals, with browser, Git and local dictation. |
-| <img src="assets/zap.png" width="32" alt="" /> | **[Zap](https://github.com/SAASEmpiree/homebrew-tap#zap)** | <kbd>⌥ Space</kbd>, two letters, <kbd>↩</kbd>: any project opens in a new editor window. |
 | <img src="assets/pleuria.png" width="32" alt="" /> | **[PleurIA](https://github.com/SAASEmpiree/homebrew-tap#pleuria)** | A little Earth in your menu bar that cries with every AI request and counts the litres of water it cost. |
 
 ### 👥 Team
